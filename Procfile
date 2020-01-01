@@ -1,1 +1,1 @@
-web: gunicorn app:HiringSalaryApp
+web: gunicorn app:app
